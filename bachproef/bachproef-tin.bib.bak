@@ -248,12 +248,9 @@
   pages   = {69-84},
 }
 
-@Misc{Yuan2016,
+@Misc{,
   author = {Yuan, Jia and Masterson, Yamini and Voida, Stephen},
-  date   = {2016-05},
   title  = {Personality-targeted Gamification: A Survey Study on Personality Traits and Motivational Affordances},
-  doi    = {10.1145/2858036.2858515},
-  url    = {https://www.researchgate.net/publication/301931450_Personality-targeted_Gamification_A_Survey_Study_on_Personality_Traits_and_Motivational_Affordances},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}

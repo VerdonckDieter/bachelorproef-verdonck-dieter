@@ -1,0 +1,993 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{Anderson2013}{misc}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d4d108e241cb531c8366633a9b4f0361}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Ashton},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4a45261b1f22acc440b255bb20befd9}{%
+           family={Huttenlocher},
+           familyi={H\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e405ae3c720db1b0e447ff5b601b968f}{%
+           family={Kleinberg},
+           familyi={K\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=900d107125ff0ca84698cb909e4f6c51}{%
+           family={Leskovec},
+           familyi={L\bibinitperiod},
+           given={Jure},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{539fa363236ae06ac3933e6cf8c07bc3}
+      \strng{fullhash}{b57ccc172f7c758f0b4f7be110f27765}
+      \strng{bibnamehash}{b57ccc172f7c758f0b4f7be110f27765}
+      \strng{authorbibnamehash}{b57ccc172f7c758f0b4f7be110f27765}
+      \strng{authornamehash}{539fa363236ae06ac3933e6cf8c07bc3}
+      \strng{authorfullhash}{b57ccc172f7c758f0b4f7be110f27765}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Steering User Behavior with Badges}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1145/2488388.2488398
+      \endverb
+    \endentry
+    \entry{Annetta2010}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e3b4b798dc1f62497292245657fd3ac0}{%
+           family={Annetta},
+           familyi={A\bibinitperiod},
+           given={Leonard\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e3b4b798dc1f62497292245657fd3ac0}
+      \strng{fullhash}{e3b4b798dc1f62497292245657fd3ac0}
+      \strng{bibnamehash}{e3b4b798dc1f62497292245657fd3ac0}
+      \strng{authorbibnamehash}{e3b4b798dc1f62497292245657fd3ac0}
+      \strng{authornamehash}{e3b4b798dc1f62497292245657fd3ac0}
+      \strng{authorfullhash}{e3b4b798dc1f62497292245657fd3ac0}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Review of General Psychology}
+      \field{month}{6}
+      \field{number}{2}
+      \field{title}{The “I’s” Have It: A Framework for Serious Educational Game Design}
+      \field{volume}{14}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{105\bibrangedash 112}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1037/a0018985
+      \endverb
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/232517189_The_I's_Have_It_A_Framework_for_Serious_Educational_Game_Design/link/54871b060cf2ef34478eb31f/download
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/232517189_The_I's_Have_It_A_Framework_for_Serious_Educational_Game_Design/link/54871b060cf2ef34478eb31f/download
+      \endverb
+    \endentry
+    \entry{Caillois2001}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5757def291d60477d87d079b3f2972ef}{%
+           family={Caillois},
+           familyi={C\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5757def291d60477d87d079b3f2972ef}
+      \strng{fullhash}{5757def291d60477d87d079b3f2972ef}
+      \strng{bibnamehash}{5757def291d60477d87d079b3f2972ef}
+      \strng{authorbibnamehash}{5757def291d60477d87d079b3f2972ef}
+      \strng{authornamehash}{5757def291d60477d87d079b3f2972ef}
+      \strng{authorfullhash}{5757def291d60477d87d079b3f2972ef}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Man, Play and Games}
+      \field{year}{2001}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Christians2018}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f84b970054af0fd2fee89944d0285c5a}{%
+           family={Christians},
+           familyi={C\bibinitperiod},
+           given={Gerald},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of South Carolina}%
+      }
+      \strng{namehash}{f84b970054af0fd2fee89944d0285c5a}
+      \strng{fullhash}{f84b970054af0fd2fee89944d0285c5a}
+      \strng{bibnamehash}{f84b970054af0fd2fee89944d0285c5a}
+      \strng{authorbibnamehash}{f84b970054af0fd2fee89944d0285c5a}
+      \strng{authornamehash}{f84b970054af0fd2fee89944d0285c5a}
+      \strng{authorfullhash}{f84b970054af0fd2fee89944d0285c5a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{The Origins and Future of Gamification}
+      \field{type}{mathesis}
+      \field{year}{2018}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Costa2019}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=49e562003993c00e6f3ca78d3dd626ec}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={Carlos\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{49e562003993c00e6f3ca78d3dd626ec}
+      \strng{fullhash}{49e562003993c00e6f3ca78d3dd626ec}
+      \strng{bibnamehash}{49e562003993c00e6f3ca78d3dd626ec}
+      \strng{authorbibnamehash}{49e562003993c00e6f3ca78d3dd626ec}
+      \strng{authornamehash}{49e562003993c00e6f3ca78d3dd626ec}
+      \strng{authorfullhash}{49e562003993c00e6f3ca78d3dd626ec}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{24}
+      \field{journaltitle}{OAE – Organizational Architect and Engineer Journal.}
+      \field{month}{12}
+      \field{title}{Gamification}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://doi.org/10.21428/b3658bca.8ffccebf
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.21428/b3658bca.8ffccebf
+      \endverb
+    \endentry
+    \entry{Costa2013}{misc}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=073a503428a8c4abe679e2c2fb1f0ee3}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={João\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=35e292b31e88968d05a800ab593c6c87}{%
+           family={Wehbe},
+           familyi={W\bibinitperiod},
+           given={Rina\bibnamedelima R.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69505eca3ee35b5201fc350900d33feb}{%
+           family={Robb},
+           familyi={R\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f8153111936529aa46cf2826d80445b}{%
+           family={Nacke},
+           familyi={N\bibinitperiod},
+           given={Lennart\bibnamedelima E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{04b4c582f0a20310196238afd7a222f3}
+      \strng{fullhash}{32c34b3289fb3e74912129f609d1039b}
+      \strng{bibnamehash}{32c34b3289fb3e74912129f609d1039b}
+      \strng{authorbibnamehash}{32c34b3289fb3e74912129f609d1039b}
+      \strng{authornamehash}{04b4c582f0a20310196238afd7a222f3}
+      \strng{authorfullhash}{32c34b3289fb3e74912129f609d1039b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Time’s Up: Studying Leaderboards For Engaging Punctual Behaviour}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1145/2583008.2583012
+      \endverb
+    \endentry
+    \entry{Deterding2011}{article}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=4ad251c02d478d38f2fe79e126ae6bf1}{%
+           family={Deterding},
+           familyi={D\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6693a49677bd64d91668dccd98fe0d4e}{%
+           family={Khaled},
+           familyi={K\bibinitperiod},
+           given={Rilla},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f8153111936529aa46cf2826d80445b}{%
+           family={Nacke},
+           familyi={N\bibinitperiod},
+           given={Lennart\bibnamedelima E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77b7f2834ada9e806200ca66ed3767a4}{%
+           family={Dixon},
+           familyi={D\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e4ccd262cddd5e489511b59c35ffee09}
+      \strng{fullhash}{cc729058b81e25b74b5676ac1dff283b}
+      \strng{bibnamehash}{cc729058b81e25b74b5676ac1dff283b}
+      \strng{authorbibnamehash}{cc729058b81e25b74b5676ac1dff283b}
+      \strng{authornamehash}{e4ccd262cddd5e489511b59c35ffee09}
+      \strng{authorfullhash}{cc729058b81e25b74b5676ac1dff283b}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{From Game Design Elements to Gamefulness: Defining “Gamification”}
+      \field{year}{2011}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Deterding20112}{misc}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=7f9d18897f0c3884b611073c2744a464}{%
+           family={Deterding},
+           familyi={D\bibinitperiod},
+           given={Sebastion},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77b7f2834ada9e806200ca66ed3767a4}{%
+           family={Dixon},
+           familyi={D\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6693a49677bd64d91668dccd98fe0d4e}{%
+           family={Khaled},
+           familyi={K\bibinitperiod},
+           given={Rilla},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8dcd6b16d5cfe0d1191e77e5f709c16}{%
+           family={Nacke},
+           familyi={N\bibinitperiod},
+           given={Lennart},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e2bf788ec3c56386acae02fa54081070}
+      \strng{fullhash}{dfa601799616b5eae95ab5b9001d2c4c}
+      \strng{bibnamehash}{dfa601799616b5eae95ab5b9001d2c4c}
+      \strng{authorbibnamehash}{dfa601799616b5eae95ab5b9001d2c4c}
+      \strng{authornamehash}{e2bf788ec3c56386acae02fa54081070}
+      \strng{authorfullhash}{dfa601799616b5eae95ab5b9001d2c4c}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{From Game Design Elements to Gamefulness: Defining “Gamification”}
+      \field{year}{2011}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Groh2012}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbd4b31fb0758a93a09a902c348bb8d6}{%
+           family={Groh},
+           familyi={G\bibinitperiod},
+           given={Fabian},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cbd4b31fb0758a93a09a902c348bb8d6}
+      \strng{fullhash}{cbd4b31fb0758a93a09a902c348bb8d6}
+      \strng{bibnamehash}{cbd4b31fb0758a93a09a902c348bb8d6}
+      \strng{authorbibnamehash}{cbd4b31fb0758a93a09a902c348bb8d6}
+      \strng{authornamehash}{cbd4b31fb0758a93a09a902c348bb8d6}
+      \strng{authorfullhash}{cbd4b31fb0758a93a09a902c348bb8d6}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{Gamification: State of the Art Definition and Utilization}
+      \field{year}{2012}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Hamari2019}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57c059873972ac3bb360bc05ba0a18f1}{%
+           family={Hamari},
+           familyi={H\bibinitperiod},
+           given={Juho},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{57c059873972ac3bb360bc05ba0a18f1}
+      \strng{fullhash}{57c059873972ac3bb360bc05ba0a18f1}
+      \strng{bibnamehash}{57c059873972ac3bb360bc05ba0a18f1}
+      \strng{authorbibnamehash}{57c059873972ac3bb360bc05ba0a18f1}
+      \strng{authornamehash}{57c059873972ac3bb360bc05ba0a18f1}
+      \strng{authorfullhash}{57c059873972ac3bb360bc05ba0a18f1}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{19}
+      \field{month}{11}
+      \field{title}{Gamification}
+      \field{year}{2019}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Huotari2012}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=01740a561a29d0fcc5fe7dc076f40f5f}{%
+           family={Huotari},
+           familyi={H\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93ce6633bf9859ef389431696a8f9585}{%
+           family={Hamar},
+           familyi={H\bibinitperiod},
+           given={Juho},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c8584fdf2337adeaecb8844cb7c46690}
+      \strng{fullhash}{c8584fdf2337adeaecb8844cb7c46690}
+      \strng{bibnamehash}{c8584fdf2337adeaecb8844cb7c46690}
+      \strng{authorbibnamehash}{c8584fdf2337adeaecb8844cb7c46690}
+      \strng{authornamehash}{c8584fdf2337adeaecb8844cb7c46690}
+      \strng{authorfullhash}{c8584fdf2337adeaecb8844cb7c46690}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Defining Gamification - A Service Marketing Perspective}
+      \field{year}{2012}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Kapp2012}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff7646cc7616f6e44a0662f575d737ce}{%
+           family={Kapp},
+           familyi={K\bibinitperiod},
+           given={Karl\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ff7646cc7616f6e44a0662f575d737ce}
+      \strng{fullhash}{ff7646cc7616f6e44a0662f575d737ce}
+      \strng{bibnamehash}{ff7646cc7616f6e44a0662f575d737ce}
+      \strng{authorbibnamehash}{ff7646cc7616f6e44a0662f575d737ce}
+      \strng{authornamehash}{ff7646cc7616f6e44a0662f575d737ce}
+      \strng{authorfullhash}{ff7646cc7616f6e44a0662f575d737ce}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1118096345}
+      \field{month}{5}
+      \field{title}{The Gamification of Learning and Instruction: Game-based Methods and Strategies for Training and Education}
+      \field{year}{2012}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Lee2017}{misc}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5154db08c48ee46e7c8a55455b5e2ed7}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Changjun},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a50731cf4dd230e01754dab46293ecf2}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Kyoungsun},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68ac2df45e96c7a460ac8a752a82cd63}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Daeho},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c2df9e1008476a4eb4a2db54c7a6040b}
+      \strng{fullhash}{414a6173c99ec2faa74ee40939ee38be}
+      \strng{bibnamehash}{414a6173c99ec2faa74ee40939ee38be}
+      \strng{authorbibnamehash}{414a6173c99ec2faa74ee40939ee38be}
+      \strng{authornamehash}{c2df9e1008476a4eb4a2db54c7a6040b}
+      \strng{authorfullhash}{414a6173c99ec2faa74ee40939ee38be}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{8}
+      \field{month}{5}
+      \field{title}{Mobile Healthcare Applications and Gamification for Sustained Health Maintenance}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Lindholm2016}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=74f5c635b5f62261510b62976eb59a9c}{%
+           family={Lindholm},
+           familyi={L\bibinitperiod},
+           given={Oscar},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c27b12bbe9e32a68afe9782b1c83680f}{%
+           family={Monsen},
+           familyi={M\bibinitperiod},
+           given={Christofer},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e6590d0e5417ba2700b0dc0e425f547}
+      \strng{fullhash}{7e6590d0e5417ba2700b0dc0e425f547}
+      \strng{bibnamehash}{7e6590d0e5417ba2700b0dc0e425f547}
+      \strng{authorbibnamehash}{7e6590d0e5417ba2700b0dc0e425f547}
+      \strng{authornamehash}{7e6590d0e5417ba2700b0dc0e425f547}
+      \strng{authorfullhash}{7e6590d0e5417ba2700b0dc0e425f547}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gamification – The process of designing our activities into games}
+      \field{year}{2016}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Marczewski2015}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bb084e4375856d57b83976533d8ff8e9}{%
+           family={Marczewski},
+           familyi={M\bibinitperiod},
+           given={Andrzej},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bb084e4375856d57b83976533d8ff8e9}
+      \strng{fullhash}{bb084e4375856d57b83976533d8ff8e9}
+      \strng{bibnamehash}{bb084e4375856d57b83976533d8ff8e9}
+      \strng{authorbibnamehash}{bb084e4375856d57b83976533d8ff8e9}
+      \strng{authornamehash}{bb084e4375856d57b83976533d8ff8e9}
+      \strng{authorfullhash}{bb084e4375856d57b83976533d8ff8e9}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{User Types.}
+      \field{title}{Even Ninja Monkeys Like to Play: Gamification, Game Thinking and Motivational Design.}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{69\bibrangedash 84}
+      \range{pages}{16}
+    \endentry
+    \entry{Morford2014}{misc}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e08e6f1add8de3a452c24e954e8b3d5d}{%
+           family={Morford},
+           familyi={M\bibinitperiod},
+           given={Zachary\bibnamedelima H.},
+           giveni={Z\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe5658e560e1d7acd189923de1ae33c7}{%
+           family={Witts},
+           familyi={W\bibinitperiod},
+           given={Benjamin\bibnamedelima N.},
+           giveni={B\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86566e0fe2b036f61007816619cbb711}{%
+           family={Killingsworth},
+           familyi={K\bibinitperiod},
+           given={Kenneth\bibnamedelima J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6ec5500ca0e5ef799cbb6717db88859}{%
+           family={Alavosius},
+           familyi={A\bibinitperiod},
+           given={Mark\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3de4d5acd2f21b6bac15c68819059ae7}
+      \strng{fullhash}{81046ec43bb506314d373589a686b6a1}
+      \strng{bibnamehash}{81046ec43bb506314d373589a686b6a1}
+      \strng{authorbibnamehash}{81046ec43bb506314d373589a686b6a1}
+      \strng{authornamehash}{3de4d5acd2f21b6bac15c68819059ae7}
+      \strng{authorfullhash}{81046ec43bb506314d373589a686b6a1}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{29}
+      \field{month}{4}
+      \field{title}{Gamification: The Intersection between Behavior Analysisand Game Design Technologies}
+      \field{year}{2014}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Rajani2019}{misc}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=de1363ab3a962cb5c544ff7f2aeadb43}{%
+           family={Rajani},
+           familyi={R\bibinitperiod},
+           given={Nikita\bibnamedelima B.},
+           giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1062589ab39d94844acb887e2e43a8a4}{%
+           family={Weth},
+           familyi={W\bibinitperiod},
+           given={Dominik},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=330be8304cec6d6a3608eb89322483b6}{%
+           family={Mastellos},
+           familyi={M\bibinitperiod},
+           given={Nikolaos},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=46ad4f5afebb801ef838b6f0d7776379}{%
+           family={Filippidis},
+           familyi={F\bibinitperiod},
+           given={Filippos\bibnamedelima T.},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d6659bb80ec42d8f48f656bdfdf72d1c}
+      \strng{fullhash}{d1b7988d4abecd3d93826088f0d3c6d8}
+      \strng{bibnamehash}{d1b7988d4abecd3d93826088f0d3c6d8}
+      \strng{authorbibnamehash}{d1b7988d4abecd3d93826088f0d3c6d8}
+      \strng{authornamehash}{d6659bb80ec42d8f48f656bdfdf72d1c}
+      \strng{authorfullhash}{d1b7988d4abecd3d93826088f0d3c6d8}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{16}
+      \field{month}{5}
+      \field{title}{Use of gamification strategies and tactics in mobile applications for smoking cessation: a review of the UK mobile app market}
+      \field{year}{2019}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Sailer2013}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d8d811af5b74abad8cd6b169ab55b1dd}{%
+           family={Sailer},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5aed9ecc9ee9572c739deb7d08a1d47}{%
+           family={Hense},
+           familyi={H\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce368859b4c0d12966ee45452f380492}{%
+           family={Mandl},
+           familyi={M\bibinitperiod},
+           given={Heinz},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce9c294593c4976b7217242beb2bdd68}{%
+           family={Klevers},
+           familyi={K\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{588d2a7e9ab517ef56b7211a0060a2d1}
+      \strng{fullhash}{82cab73671b0e6527a3466b16f28a9fc}
+      \strng{bibnamehash}{82cab73671b0e6527a3466b16f28a9fc}
+      \strng{authorbibnamehash}{82cab73671b0e6527a3466b16f28a9fc}
+      \strng{authornamehash}{588d2a7e9ab517ef56b7211a0060a2d1}
+      \strng{authorfullhash}{82cab73671b0e6527a3466b16f28a9fc}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Interaction Design and Architecture(s) Journal}
+      \field{month}{12}
+      \field{number}{19}
+      \field{title}{Psychological Perspectives on Motivation through Gamification}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{18\bibrangedash 27}
+      \range{pages}{10}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/278672057_Psychological_Perspectives_on_Motivation_through_Gamification
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/278672057_Psychological_Perspectives_on_Motivation_through_Gamification
+      \endverb
+    \endentry
+    \entry{Sailer2016}{misc}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d8d811af5b74abad8cd6b169ab55b1dd}{%
+           family={Sailer},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=381924d179b9200f612f08fb65cddb7e}{%
+           family={Hense},
+           familyi={H\bibinitperiod},
+           given={Jan\bibnamedelima Ulrich},
+           giveni={J\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9859017f8d4477c2c30378a01e7cd3e5}{%
+           family={Mayr},
+           familyi={M\bibinitperiod},
+           given={Sarah\bibnamedelima Katharina},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce368859b4c0d12966ee45452f380492}{%
+           family={Mandl},
+           familyi={M\bibinitperiod},
+           given={Heinz},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{588d2a7e9ab517ef56b7211a0060a2d1}
+      \strng{fullhash}{469f107dea3e6277aa1ca700d94af680}
+      \strng{bibnamehash}{469f107dea3e6277aa1ca700d94af680}
+      \strng{authorbibnamehash}{469f107dea3e6277aa1ca700d94af680}
+      \strng{authornamehash}{588d2a7e9ab517ef56b7211a0060a2d1}
+      \strng{authorfullhash}{469f107dea3e6277aa1ca700d94af680}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{14}
+      \field{month}{12}
+      \field{title}{How Gamification motivates: An experimental study of the effects of specific game design elements on psychological need satisfaction}
+      \field{year}{2016}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Leaderboard2021}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=297b8e73cfc4b5f4f1ee2599ac8e0f03}{%
+           family={Stackexchange},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{297b8e73cfc4b5f4f1ee2599ac8e0f03}
+      \strng{fullhash}{297b8e73cfc4b5f4f1ee2599ac8e0f03}
+      \strng{bibnamehash}{297b8e73cfc4b5f4f1ee2599ac8e0f03}
+      \strng{authorbibnamehash}{297b8e73cfc4b5f4f1ee2599ac8e0f03}
+      \strng{authornamehash}{297b8e73cfc4b5f4f1ee2599ac8e0f03}
+      \strng{authorfullhash}{297b8e73cfc4b5f4f1ee2599ac8e0f03}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Reputatiepunten van de top vijf gebruikers.}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://stackexchange.com/leagues/1/alltime/stackoverflow
+      \endverb
+      \verb{url}
+      \verb https://stackexchange.com/leagues/1/alltime/stackoverflow
+      \endverb
+    \endentry
+    \entry{Badges2021}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=257281f9b2aa93be7c12f5c49e122ca3}{%
+           family={Stackoverflow},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{257281f9b2aa93be7c12f5c49e122ca3}
+      \strng{fullhash}{257281f9b2aa93be7c12f5c49e122ca3}
+      \strng{bibnamehash}{257281f9b2aa93be7c12f5c49e122ca3}
+      \strng{authorbibnamehash}{257281f9b2aa93be7c12f5c49e122ca3}
+      \strng{authornamehash}{257281f9b2aa93be7c12f5c49e122ca3}
+      \strng{authorfullhash}{257281f9b2aa93be7c12f5c49e122ca3}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Badges met hun vereiste acties.}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://stackoverflow.com/help/badges
+      \endverb
+      \verb{url}
+      \verb https://stackoverflow.com/help/badges
+      \endverb
+    \endentry
+    \entry{Tondello2016}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=b5151251e4bc16f3118d6aa4accc012a}{%
+           family={Tondello},
+           familyi={T\bibinitperiod},
+           given={Gustavo\bibnamedelima F.},
+           giveni={G\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35e292b31e88968d05a800ab593c6c87}{%
+           family={Wehbe},
+           familyi={W\bibinitperiod},
+           given={Rina\bibnamedelima R.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad5b2587e0907b625421c4d2b34f562d}{%
+           family={Diamond},
+           familyi={D\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f13966f288a9cfa21f229c1e8c31a98f}{%
+           family={Busch},
+           familyi={B\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c71024dcda6c38b49e5faf1d69cf087f}
+      \strng{fullhash}{f4215dc4dc6addba6265aea20f6de8f1}
+      \strng{bibnamehash}{f4215dc4dc6addba6265aea20f6de8f1}
+      \strng{authorbibnamehash}{f4215dc4dc6addba6265aea20f6de8f1}
+      \strng{authornamehash}{c71024dcda6c38b49e5faf1d69cf087f}
+      \strng{authorfullhash}{f4215dc4dc6addba6265aea20f6de8f1}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{The Gamification User Types Hexad Scale}
+      \field{titleaddon}{In Proceedings of the 2016 Annual Symposium on Computer-Human Interaction in Play,}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1145/2967934.2968082
+      \endverb
+    \endentry
+    \entry{Points2018}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a6b657e8d76c199df512b455b59687a4}{%
+           family={UXPlanet},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{a6b657e8d76c199df512b455b59687a4}
+      \strng{fullhash}{a6b657e8d76c199df512b455b59687a4}
+      \strng{bibnamehash}{a6b657e8d76c199df512b455b59687a4}
+      \strng{authorbibnamehash}{a6b657e8d76c199df512b455b59687a4}
+      \strng{authornamehash}{a6b657e8d76c199df512b455b59687a4}
+      \strng{authorfullhash}{a6b657e8d76c199df512b455b59687a4}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ervaringspunten.}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://uxplanet.org/gamification-rewarding-with-personal-stats-2e550df34af7
+      \endverb
+      \verb{url}
+      \verb https://uxplanet.org/gamification-rewarding-with-personal-stats-2e550df34af7
+      \endverb
+    \endentry
+    \entry{WePC2021}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7e7e4dc5cd152487fa8fc7486e328710}{%
+           family={WePC},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e7e4dc5cd152487fa8fc7486e328710}
+      \strng{fullhash}{7e7e4dc5cd152487fa8fc7486e328710}
+      \strng{bibnamehash}{7e7e4dc5cd152487fa8fc7486e328710}
+      \strng{authorbibnamehash}{7e7e4dc5cd152487fa8fc7486e328710}
+      \strng{authornamehash}{7e7e4dc5cd152487fa8fc7486e328710}
+      \strng{authorfullhash}{7e7e4dc5cd152487fa8fc7486e328710}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Video Game Industry Statistics, Trends and Data In 2021}
+      \verb{urlraw}
+      \verb https://www.wepc.com/news/video-game-statistics/
+      \endverb
+      \verb{url}
+      \verb https://www.wepc.com/news/video-game-statistics/
+      \endverb
+    \endentry
+    \entry{Yuan2016}{misc}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fce0750fc0b913baab98c0de68117e48}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Jia},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3ed2473c3470f30711c3fd733a9d64b}{%
+           family={Masterson},
+           familyi={M\bibinitperiod},
+           given={Yamini},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=144ed06a202ee886506343fc4fb5ec66}{%
+           family={Voida},
+           familyi={V\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d4c37d5c0bc9b4de00ea78c85b031bd3}
+      \strng{fullhash}{eb8996b86649b4a93c8cacf683a99ef3}
+      \strng{bibnamehash}{eb8996b86649b4a93c8cacf683a99ef3}
+      \strng{authorbibnamehash}{eb8996b86649b4a93c8cacf683a99ef3}
+      \strng{authornamehash}{d4c37d5c0bc9b4de00ea78c85b031bd3}
+      \strng{authorfullhash}{eb8996b86649b4a93c8cacf683a99ef3}
+      \field{sortinit}{Y}
+      \field{sortinithash}{6ae2ff5458ff901249c2745238c951b7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Personality-targeted Gamification: A Survey Study on Personality Traits and Motivational Affordances}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1145/2858036.2858515
+      \endverb
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/301931450_Personality-targeted_Gamification_A_Survey_Study_on_Personality_Traits_and_Motivational_Affordances
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/301931450_Personality-targeted_Gamification_A_Survey_Study_on_Personality_Traits_and_Motivational_Affordances
+      \endverb
+    \endentry
+    \entry{Zichermann2011}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e4298ecb77a36c0bf44b61fcda638788}{%
+           family={Zichermann},
+           familyi={Z\bibinitperiod},
+           given={Gabe},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79f8eea005d76ae385a1b5d4aca35566}{%
+           family={Cunningham},
+           familyi={C\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{efb8037e33469a05e32de14b3a9116c1}
+      \strng{fullhash}{efb8037e33469a05e32de14b3a9116c1}
+      \strng{bibnamehash}{efb8037e33469a05e32de14b3a9116c1}
+      \strng{authorbibnamehash}{efb8037e33469a05e32de14b3a9116c1}
+      \strng{authornamehash}{efb8037e33469a05e32de14b3a9116c1}
+      \strng{authorfullhash}{efb8037e33469a05e32de14b3a9116c1}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{Gamification by Design}
+      \field{year}{2011}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
