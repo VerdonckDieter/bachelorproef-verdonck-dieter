@@ -48,9 +48,11 @@
   title  = {Exploring Gamification Techniques and Applications for Sustainable Tourism},
 }
 
-@Misc{AlMarshedis,
+@Misc{AlMarshedi2015,
   author = {AlMarshedi, Alaa and Wanick, Vanessa and Wills, Gary B. and Ranchhod, Ashok},
+  date   = {2015-10},
   title  = {Gamification and Behaviour},
+  doi    = {10.1007%2F978-3-319-45557-0_2},
 }
 
 @Misc{Lindholm2016,
@@ -248,9 +250,35 @@
   pages   = {69-84},
 }
 
-@Misc{,
+@Misc{Yuan2016,
   author = {Yuan, Jia and Masterson, Yamini and Voida, Stephen},
+  date   = {2016-05},
   title  = {Personality-targeted Gamification: A Survey Study on Personality Traits and Motivational Affordances},
+  doi    = {10.1145/2858036.2858515},
+  url    = {https://www.researchgate.net/publication/301931450_Personality-targeted_Gamification_A_Survey_Study_on_Personality_Traits_and_Motivational_Affordances},
+}
+
+@Misc{GoogleTrends2021,
+  author  = {Google},
+  date    = {2021},
+  title   = {Populariteit van gamification},
+  url     = {https://trends.google.com/trends/explore?date=2009-01-31 2021-08-13&q=gamification},
+  urldate = {2021-08-13},
+}
+
+@Misc{Pelling2011,
+  author = {Pelling, Nick},
+  date   = {2011-08-09},
+  title  = {The (short) prehistory of "gamification"...},
+  url    = {https://nanodome.wordpress.com/2011/08/09/the-short-prehistory-of-gamification/},
+}
+
+@Misc{Fogg2009,
+  author = {Fogg, B. J.},
+  date   = {2009-04},
+  title  = {A behavior model for persuasive design.},
+  doi    = {10.1145/1541948.1541999},
+  url    = {https://www.researchgate.net/publication/220962627_A_behavior_model_for_persuasive_design},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}

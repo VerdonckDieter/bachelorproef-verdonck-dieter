@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.27)  13 AUG 2021 02:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.27)  13 AUG 2021 23:35
 entering extended mode
 **./bachproef-tin.tex
 (bachproef-tin.tex
@@ -1577,97 +1577,35 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7])
+ [7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8])
 \tf@toc=\write6
 \openout6 = `bachproef-tin.toc'.
 
 
-[8] (bachproef-tin.lof)
+[9] [10
+
+] (bachproef-tin.lof)
 \tf@lof=\write7
 \openout7 = `bachproef-tin.lof'.
 
- [9
+ [11
 
-
-] [10
+] [12
 
 ] (bachproef-tin.lot)
 \tf@lot=\write8
 \openout8 = `bachproef-tin.lot'.
 
- (inleiding.tex [11]
-[12
+ (inleiding.tex
+[13] [14
 
 ]
 Hoofdstuk 1.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [13]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
-6.
-
-(C:\Users\Dieter\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-))
-(standvanzaken.tex [14]
-Hoofdstuk 2.
-[15
-
-]
-<Deterding2011Table.png, id=237, 804.00375pt x 509.65407pt>
-File: Deterding2011Table.png Graphic file (type png)
-<use Deterding2011Table.png>
-Package pdftex.def Info: Deterding2011Table.png  used on input line 36.
-(pdftex.def)             Requested size: 426.79135pt x 270.53531pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [16]
-[17 <./Deterding2011Table.png>] [18]
-<Points.png, id=274, 1806.75pt x 1043.9pt>
-File: Points.png Graphic file (type png)
-<use Points.png>
-Package pdftex.def Info: Points.png  used on input line 74.
-(pdftex.def)             Requested size: 426.79135pt x 246.59082pt.
-<Badges.png, id=283, 551.05875pt x 164.11313pt>
-File: Badges.png Graphic file (type png)
-<use Badges.png>
-Package pdftex.def Info: Badges.png  used on input line 86.
-(pdftex.def)             Requested size: 426.79135pt x 127.10872pt.
- [19 <./Points.png (PNG copy)>]
-<Leaderboard.png, id=300, 562.35094pt x 347.79938pt>
-File: Leaderboard.png Graphic file (type png)
-<use Leaderboard.png>
-Package pdftex.def Info: Leaderboard.png  used on input line 102.
-(pdftex.def)             Requested size: 426.79135pt x 263.95877pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [20 <./Badges.png>] [21 <./Leaderboard.png>] [22]
-<HexadUserTypes.png, id=345, 501.37312pt x 435.12563pt>
-File: HexadUserTypes.png Graphic file (type png)
-<use HexadUserTypes.png>
-Package pdftex.def Info: HexadUserTypes.png  used on input line 153.
-(pdftex.def)             Requested size: 426.79135pt x 370.41624pt.
-) (methodologie.tex [23] [24 <./HexadUserTypes.png>]
-Hoofdstuk 3.
-) (conclusie.tex [25
-
-] [26
-
-]
-Hoofdstuk 4.
-) [27] [28
-
-]
-B\babelshorthand{"y}lage A.
-(../voorstel/voorstel-inhoud.tex [29] [30]) [31] [32
-
-]
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 128.
-
+ 14.
 (C:\Users\Dieter\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
@@ -1676,19 +1614,19 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 128.
+ 14.
 
 (C:\Users\Dieter\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 128.
+ 14.
 
 (C:\Users\Dieter\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 128.
+ 14.
 
 (C:\Users\Dieter\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
@@ -1700,40 +1638,162 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-28.
+4.
 
 (C:\Users\Dieter\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 128.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 128.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 128.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
 
-[33] [34] (bachproef-tin.aux)
+[15]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
+6.
+ (C:\Users\Dieter\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)) (standvanzaken.tex [16]
+Hoofdstuk 2.
+<GoogleTrends.png, id=284, 849.92531pt x 204.01219pt>
+File: GoogleTrends.png Graphic file (type png)
+<use GoogleTrends.png>
+Package pdftex.def Info: GoogleTrends.png  used on input line 19.
+(pdftex.def)             Requested size: 426.79135pt x 102.44476pt.
+
+Underfull \vbox (badness 4181) has occurred while \output is active []
+
+ [17
+
+]
+Underfull \vbox (badness 7869) has occurred while \output is active []
+
+ [18 <./GoogleTrends.png>]
+<Deterding2011Table.png, id=318, 804.00375pt x 509.65407pt>
+File: Deterding2011Table.png Graphic file (type png)
+<use Deterding2011Table.png>
+Package pdftex.def Info: Deterding2011Table.png  used on input line 48.
+(pdftex.def)             Requested size: 426.79135pt x 270.53531pt.
+ [19 <./Deterding2011Table.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
+<Points.png, id=342, 1806.75pt x 1043.9pt>
+File: Points.png Graphic file (type png)
+<use Points.png>
+Package pdftex.def Info: Points.png  used on input line 86.
+(pdftex.def)             Requested size: 426.79135pt x 246.59082pt.
+<Badges.png, id=351, 551.05875pt x 164.11313pt>
+File: Badges.png Graphic file (type png)
+<use Badges.png>
+Package pdftex.def Info: Badges.png  used on input line 98.
+(pdftex.def)             Requested size: 426.79135pt x 127.10872pt.
+
+Underfull \vbox (badness 6792) has occurred while \output is active []
+
+ [21]
+[22 <./Points.png (PNG copy)> <./Badges.png>]
+<Leaderboard.png, id=374, 562.35094pt x 347.79938pt>
+File: Leaderboard.png Graphic file (type png)
+<use Leaderboard.png>
+Package pdftex.def Info: Leaderboard.png  used on input line 114.
+(pdftex.def)             Requested size: 426.79135pt x 263.95877pt.
+ [23] [24 <./Leaderboard.png>]
+[25] [26]
+<HexadUserTypes.png, id=442, 501.37312pt x 435.12563pt>
+File: HexadUserTypes.png Graphic file (type png)
+<use HexadUserTypes.png>
+Package pdftex.def Info: HexadUserTypes.png  used on input line 182.
+(pdftex.def)             Requested size: 426.79135pt x 370.41624pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27 <./HexadUserTypes.png>]) (methodologie.tex [28]
+Hoofdstuk 3.
+[29
+
+]) (prototype.tex [30]
+Hoofdstuk 4.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31
+
+]
+<PuntenDiagram.png, id=474, 640.64343pt x 243.15843pt>
+File: PuntenDiagram.png Graphic file (type png)
+<use PuntenDiagram.png>
+Package pdftex.def Info: PuntenDiagram.png  used on input line 30.
+(pdftex.def)             Requested size: 426.79135pt x 161.99144pt.
+<GebruikerPunten.png, id=476, 185.94469pt x 117.43875pt>
+File: GebruikerPunten.png Graphic file (type png)
+<use GebruikerPunten.png>
+Package pdftex.def Info: GebruikerPunten.png  used on input line 38.
+(pdftex.def)             Requested size: 426.79135pt x 269.56044pt.
+<BadgeTabel.png, id=478, 365.86688pt x 158.09062pt>
+File: BadgeTabel.png Graphic file (type png)
+<use BadgeTabel.png>
+Package pdftex.def Info: BadgeTabel.png  used on input line 55.
+(pdftex.def)             Requested size: 426.79135pt x 184.42491pt.
+
+[32 <./PuntenDiagram.png>] [33 <./GebruikerPunten.png> <./BadgeTabel.png>]
+(C:\Users\Dieter\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 7
+2.
+(C:\Users\Dieter\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <12> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 73.
+)
+(conclusie.tex [34]
+Hoofdstuk 5.
+) [35
+
+] [36
+
+]
+B\babelshorthand{"y}lage A.
+(../voorstel/voorstel-inhoud.tex [37] [38]) [39] [40
+
+] [41] [42]
+(bachproef-tin.aux)
 Package logreq Info: Writing requests to 'bachproef-tin.run.xml'.
 \openout1 = `bachproef-tin.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32612 strings out of 479696
- 608844 string characters out of 2866639
- 1558071 words of memory out of 3000000
- 48718 multiletter control sequences out of 15000+200000
- 457289 words of font info for 225 fonts, out of 3000000 for 9000
+ 33418 strings out of 479696
+ 618658 string characters out of 2866639
+ 1612910 words of memory out of 3000000
+ 49390 multiletter control sequences out of 15000+200000
+ 480517 words of font info for 294 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,11n,99p,883b,4740s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Dieter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C
-:/Users/Dieter/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagd8a.pf
-b><C:/Users/Dieter/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagk8
-a.pfb><C:/Users/Dieter/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr
-8a.pfb><C:/Users/Dieter/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utm
-ri8a.pfb>
-Output written on bachproef-tin.pdf (36 pages, 575763 bytes).
+ 94i,12n,99p,883b,4740s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Dieter\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ect
+t1200.pk>{C:/Users/Dieter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r
+.enc}<C:/Users/Dieter/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/ua
+gd8a.pfb><C:/Users/Dieter/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantga
+r/uagk8a.pfb><C:/Users/Dieter/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
+es/utmr8a.pfb><C:/Users/Dieter/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
+mes/utmri8a.pfb>
+Output written on bachproef-tin.pdf (44 pages, 676833 bytes).
 PDF statistics:
- 576 PDF objects out of 1000 (max. 8388607)
- 115 named destinations out of 1000 (max. 500000)
- 57147 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 825 PDF objects out of 1000 (max. 8388607)
+ 161 named destinations out of 1000 (max. 500000)
+ 87983 words of extra memory for PDF output out of 89155 (max. 10000000)
 
