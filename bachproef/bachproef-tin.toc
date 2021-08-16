@@ -73,23 +73,23 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.3}Punten}{32}{section.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Badges}{32}{section.4.4}%
+\contentsline {section}{\numberline {4.4}Badges}{34}{section.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.5}Scorebord}{34}{section.4.5}%
+\contentsline {section}{\numberline {4.5}Scorebord}{35}{section.4.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Conclusie}{35}{chapter.5}%
+\contentsline {chapter}{\numberline {5}Conclusie}{37}{chapter.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{37}{appendix.A}%
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{39}{appendix.A}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Introductie}{37}{section.A.1}%
+\contentsline {section}{\numberline {A.1}Introductie}{39}{section.A.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.2}State-of-the-art}{38}{section.A.2}%
+\contentsline {section}{\numberline {A.2}State-of-the-art}{40}{section.A.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.3}Methodologie}{38}{section.A.3}%
+\contentsline {section}{\numberline {A.3}Methodologie}{40}{section.A.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.4}Verwachte resultaten}{38}{section.A.4}%
+\contentsline {section}{\numberline {A.4}Verwachte resultaten}{40}{section.A.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.5}Verwachte conclusies}{39}{section.A.5}%
+\contentsline {section}{\numberline {A.5}Verwachte conclusies}{41}{section.A.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliografie}{41}{appendix*.6}%
+\contentsline {chapter}{Bibliografie}{43}{appendix*.6}%
 \contentsfinish 

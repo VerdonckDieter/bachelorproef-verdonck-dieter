@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.27)  13 AUG 2021 23:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.27)  16 AUG 2021 01:15
 entering extended mode
 **./bachproef-tin.tex
 (bachproef-tin.tex
@@ -1663,7 +1663,7 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )) (standvanzaken.tex [16]
 Hoofdstuk 2.
-<GoogleTrends.png, id=284, 849.92531pt x 204.01219pt>
+<GoogleTrends.png, id=287, 849.92531pt x 204.01219pt>
 File: GoogleTrends.png Graphic file (type png)
 <use GoogleTrends.png>
 Package pdftex.def Info: GoogleTrends.png  used on input line 19.
@@ -1677,7 +1677,7 @@ Underfull \vbox (badness 4181) has occurred while \output is active []
 Underfull \vbox (badness 7869) has occurred while \output is active []
 
  [18 <./GoogleTrends.png>]
-<Deterding2011Table.png, id=318, 804.00375pt x 509.65407pt>
+<Deterding2011Table.png, id=321, 804.00375pt x 509.65407pt>
 File: Deterding2011Table.png Graphic file (type png)
 <use Deterding2011Table.png>
 Package pdftex.def Info: Deterding2011Table.png  used on input line 48.
@@ -1686,12 +1686,12 @@ Package pdftex.def Info: Deterding2011Table.png  used on input line 48.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [20]
-<Points.png, id=342, 1806.75pt x 1043.9pt>
+<Points.png, id=345, 1806.75pt x 1043.9pt>
 File: Points.png Graphic file (type png)
 <use Points.png>
 Package pdftex.def Info: Points.png  used on input line 86.
 (pdftex.def)             Requested size: 426.79135pt x 246.59082pt.
-<Badges.png, id=351, 551.05875pt x 164.11313pt>
+<Badges.png, id=354, 551.05875pt x 164.11313pt>
 File: Badges.png Graphic file (type png)
 <use Badges.png>
 Package pdftex.def Info: Badges.png  used on input line 98.
@@ -1701,14 +1701,14 @@ Underfull \vbox (badness 6792) has occurred while \output is active []
 
  [21]
 [22 <./Points.png (PNG copy)> <./Badges.png>]
-<Leaderboard.png, id=374, 562.35094pt x 347.79938pt>
+<Leaderboard.png, id=377, 562.35094pt x 347.79938pt>
 File: Leaderboard.png Graphic file (type png)
 <use Leaderboard.png>
 Package pdftex.def Info: Leaderboard.png  used on input line 114.
 (pdftex.def)             Requested size: 426.79135pt x 263.95877pt.
  [23] [24 <./Leaderboard.png>]
 [25] [26]
-<HexadUserTypes.png, id=442, 501.37312pt x 435.12563pt>
+<HexadUserTypes.png, id=445, 501.37312pt x 435.12563pt>
 File: HexadUserTypes.png Graphic file (type png)
 <use HexadUserTypes.png>
 Package pdftex.def Info: HexadUserTypes.png  used on input line 182.
@@ -1728,28 +1728,35 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [31
 
 ]
-<PuntenDiagram.png, id=474, 640.64343pt x 243.15843pt>
-File: PuntenDiagram.png Graphic file (type png)
-<use PuntenDiagram.png>
-Package pdftex.def Info: PuntenDiagram.png  used on input line 30.
-(pdftex.def)             Requested size: 426.79135pt x 161.99144pt.
-<GebruikerPunten.png, id=476, 185.94469pt x 117.43875pt>
-File: GebruikerPunten.png Graphic file (type png)
-<use GebruikerPunten.png>
-Package pdftex.def Info: GebruikerPunten.png  used on input line 38.
-(pdftex.def)             Requested size: 426.79135pt x 269.56044pt.
-<BadgeTabel.png, id=478, 365.86688pt x 158.09062pt>
-File: BadgeTabel.png Graphic file (type png)
-<use BadgeTabel.png>
-Package pdftex.def Info: BadgeTabel.png  used on input line 55.
-(pdftex.def)             Requested size: 426.79135pt x 184.42491pt.
+<DBDiagram.png, id=477, 429.10312pt x 324.46219pt>
+File: DBDiagram.png Graphic file (type png)
+<use DBDiagram.png>
+Package pdftex.def Info: DBDiagram.png  used on input line 32.
+(pdftex.def)             Requested size: 426.79135pt x 322.71866pt.
 
-[32 <./PuntenDiagram.png>] [33 <./GebruikerPunten.png> <./BadgeTabel.png>]
+Underfull \vbox (badness 1509) has occurred while \output is active []
+
+ [32 <./DBDiagram.png>]
+<ManagePoints.png, id=484, 738.50906pt x 182.93344pt>
+File: ManagePoints.png Graphic file (type png)
+<use ManagePoints.png>
+Package pdftex.def Info: ManagePoints.png  used on input line 42.
+(pdftex.def)             Requested size: 426.79135pt x 105.71904pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33 <./ManagePoints.png>]
+<DBBadge2.png, id=490, 406.51875pt x 249.93375pt>
+File: DBBadge2.png Graphic file (type png)
+<use DBBadge2.png>
+Package pdftex.def Info: DBBadge2.png  used on input line 67.
+(pdftex.def)             Requested size: 426.79135pt x 262.40767pt.
+
 (C:\Users\Dieter\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 7
-2.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 8
+3.
 (C:\Users\Dieter\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -1758,30 +1765,38 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <12> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 73.
-)
-(conclusie.tex [34]
-Hoofdstuk 5.
-) [35
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 84.
 
-] [36
+Underfull \vbox (badness 2951) has occurred while \output is active []
+
+ [34 <./DBBadge2.png>] [35]
+<LeaderboardInnerdreams.png, id=516, 740.0147pt x 380.17032pt>
+File: LeaderboardInnerdreams.png Graphic file (type png)
+<use LeaderboardInnerdreams.png>
+Package pdftex.def Info: LeaderboardInnerdreams.png  used on input line 132.
+(pdftex.def)             Requested size: 426.79135pt x 219.25754pt.
+) (conclusie.tex [36 <./LeaderboardInnerdreams.png>]
+Hoofdstuk 5.
+) [37
+
+] [38
 
 ]
 B\babelshorthand{"y}lage A.
-(../voorstel/voorstel-inhoud.tex [37] [38]) [39] [40
+(../voorstel/voorstel-inhoud.tex [39] [40]) [41] [42
 
-] [41] [42]
+] [43] [44]
 (bachproef-tin.aux)
 Package logreq Info: Writing requests to 'bachproef-tin.run.xml'.
 \openout1 = `bachproef-tin.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33418 strings out of 479696
- 618658 string characters out of 2866639
- 1612910 words of memory out of 3000000
- 49390 multiletter control sequences out of 15000+200000
- 480517 words of font info for 294 fonts, out of 3000000 for 9000
+ 33447 strings out of 479696
+ 619056 string characters out of 2866639
+ 1618069 words of memory out of 3000000
+ 49405 multiletter control sequences out of 15000+200000
+ 480872 words of font info for 298 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,12n,99p,883b,4740s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Dieter\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ect
@@ -1791,9 +1806,9 @@ gd8a.pfb><C:/Users/Dieter/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantga
 r/uagk8a.pfb><C:/Users/Dieter/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
 es/utmr8a.pfb><C:/Users/Dieter/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on bachproef-tin.pdf (44 pages, 676833 bytes).
+Output written on bachproef-tin.pdf (46 pages, 687551 bytes).
 PDF statistics:
- 825 PDF objects out of 1000 (max. 8388607)
- 161 named destinations out of 1000 (max. 500000)
- 87983 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 849 PDF objects out of 1000 (max. 8388607)
+ 168 named destinations out of 1000 (max. 500000)
+ 87988 words of extra memory for PDF output out of 89155 (max. 10000000)
 
