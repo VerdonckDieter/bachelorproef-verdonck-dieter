@@ -182,6 +182,33 @@
       \field{year}{2001}
       \field{dateera}{ce}
     \endentry
+    \entry{Carreno2018}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=134e8d497347874a4c20275f0d678f20}{%
+           family={Carreño},
+           familyi={C\bibinitperiod},
+           given={Alberto\bibnamedelima Mora},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{134e8d497347874a4c20275f0d678f20}
+      \strng{fullhash}{134e8d497347874a4c20275f0d678f20}
+      \strng{bibnamehash}{134e8d497347874a4c20275f0d678f20}
+      \strng{authorbibnamehash}{134e8d497347874a4c20275f0d678f20}
+      \strng{authornamehash}{134e8d497347874a4c20275f0d678f20}
+      \strng{authorfullhash}{134e8d497347874a4c20275f0d678f20}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{A framework for agile design ofpersonalized gamification services}
+      \field{year}{2018}
+      \field{dateera}{ce}
+    \endentry
     \entry{Christians2018}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f84b970054af0fd2fee89944d0285c5a}{%

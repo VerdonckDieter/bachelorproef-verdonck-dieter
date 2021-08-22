@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.27)  21 AUG 2021 00:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.27)  23 AUG 2021 01:12
 entering extended mode
 **./bachproef-tin.tex
 (bachproef-tin.tex
@@ -1587,13 +1587,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [9] [10
 
-] (bachproef-tin.lof)
+] (bachproef-tin.lof [11
+
+])
 \tf@lof=\write7
 \openout7 = `bachproef-tin.lof'.
 
- [11
-
-] [12] (bachproef-tin.lot)
+ [12] (bachproef-tin.lot)
 \tf@lot=\write8
 \openout8 = `bachproef-tin.lot'.
 
@@ -1663,7 +1663,7 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )) (standvanzaken.tex [16]
 Hoofdstuk 2.
-<GoogleTrends.png, id=349, 849.92531pt x 204.01219pt>
+<GoogleTrends.png, id=407, 849.92531pt x 204.01219pt>
 File: GoogleTrends.png Graphic file (type png)
 <use GoogleTrends.png>
 Package pdftex.def Info: GoogleTrends.png  used on input line 19.
@@ -1674,7 +1674,7 @@ Package pdftex.def Info: GoogleTrends.png  used on input line 19.
 Underfull \vbox (badness 7869) has occurred while \output is active []
 
  [18 <./GoogleTrends.png>]
-<Deterding2011Table.png, id=383, 804.00375pt x 509.65407pt>
+<Deterding2011Table.png, id=441, 804.00375pt x 509.65407pt>
 File: Deterding2011Table.png Graphic file (type png)
 <use Deterding2011Table.png>
 Package pdftex.def Info: Deterding2011Table.png  used on input line 48.
@@ -1683,12 +1683,12 @@ Package pdftex.def Info: Deterding2011Table.png  used on input line 48.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [20]
-<Points.png, id=407, 1806.75pt x 1043.9pt>
+<Points.png, id=465, 1806.75pt x 1043.9pt>
 File: Points.png Graphic file (type png)
 <use Points.png>
 Package pdftex.def Info: Points.png  used on input line 86.
 (pdftex.def)             Requested size: 426.79135pt x 246.59082pt.
-<Badges.png, id=416, 551.05875pt x 164.11313pt>
+<Badges.png, id=474, 551.05875pt x 164.11313pt>
 File: Badges.png Graphic file (type png)
 <use Badges.png>
 Package pdftex.def Info: Badges.png  used on input line 98.
@@ -1698,14 +1698,14 @@ Underfull \vbox (badness 6792) has occurred while \output is active []
 
  [21]
 [22 <./Points.png (PNG copy)> <./Badges.png>]
-<Leaderboard.png, id=439, 562.35094pt x 347.79938pt>
+<Leaderboard.png, id=497, 562.35094pt x 347.79938pt>
 File: Leaderboard.png Graphic file (type png)
 <use Leaderboard.png>
 Package pdftex.def Info: Leaderboard.png  used on input line 114.
 (pdftex.def)             Requested size: 426.79135pt x 263.95877pt.
  [23] [24 <./Leaderboard.png>]
 [25] [26]
-<HexadUserTypes.png, id=507, 501.37312pt x 435.12563pt>
+<HexadUserTypes.png, id=565, 501.37312pt x 435.12563pt>
 File: HexadUserTypes.png Graphic file (type png)
 <use HexadUserTypes.png>
 Package pdftex.def Info: HexadUserTypes.png  used on input line 182.
@@ -1722,12 +1722,12 @@ Hoofdstuk 3.
 ]
 Hoofdstuk 4.
 [33]
-<DBDiagram.png, id=548, 429.10312pt x 324.46219pt>
+<DBDiagram.png, id=606, 429.10312pt x 324.46219pt>
 File: DBDiagram.png Graphic file (type png)
 <use DBDiagram.png>
 Package pdftex.def Info: DBDiagram.png  used on input line 34.
 (pdftex.def)             Requested size: 426.79135pt x 322.71866pt.
-<ManagePoints.png, id=551, 738.50906pt x 182.93344pt>
+<ManagePoints.png, id=609, 738.50906pt x 182.93344pt>
 File: ManagePoints.png Graphic file (type png)
 <use ManagePoints.png>
 Package pdftex.def Info: ManagePoints.png  used on input line 44.
@@ -1737,7 +1737,7 @@ Underfull \vbox (badness 5970) has occurred while \output is active []
 
  [34]
 [35 <./DBDiagram.png> <./ManagePoints.png>]
-<DBBadge2.png, id=562, 406.51875pt x 249.93375pt>
+<DBBadge2.png, id=620, 406.51875pt x 249.93375pt>
 File: DBBadge2.png Graphic file (type png)
 <use DBBadge2.png>
 Package pdftex.def Info: DBBadge2.png  used on input line 69.
@@ -1759,13 +1759,13 @@ LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <12> not available
 (Font)              Font shape `T1/cmtt/m/n' tried instead on input line 86.
 
 [36]
-<BadgeUnlocked.png, id=573, 515.67656pt x 215.30438pt>
+<BadgeUnlocked.png, id=631, 515.67656pt x 215.30438pt>
 File: BadgeUnlocked.png Graphic file (type png)
 <use BadgeUnlocked.png>
 Package pdftex.def Info: BadgeUnlocked.png  used on input line 97.
 (pdftex.def)             Requested size: 426.79135pt x 178.19666pt.
  [37 <./DBBadge2.png>] [38 <./BadgeUnlocked.png>]
-<LeaderboardInnerdreams.png, id=596, 740.0147pt x 380.17032pt>
+<LeaderboardInnerdreams.png, id=654, 740.0147pt x 380.17032pt>
 File: LeaderboardInnerdreams.png Graphic file (type png)
 <use LeaderboardInnerdreams.png>
 Package pdftex.def Info: LeaderboardInnerdreams.png  used on input line 140.
@@ -1774,12 +1774,12 @@ Package pdftex.def Info: LeaderboardInnerdreams.png  used on input line 140.
 Underfull \vbox (badness 2635) has occurred while \output is active []
 
  [39 <./LeaderboardInnerdreams.png>]
-<DBDiagramReward.png, id=602, 399.74344pt x 513.41812pt>
+<DBDiagramReward.png, id=660, 399.74344pt x 513.41812pt>
 File: DBDiagramReward.png Graphic file (type png)
 <use DBDiagramReward.png>
 Package pdftex.def Info: DBDiagramReward.png  used on input line 168.
 (pdftex.def)             Requested size: 426.79135pt x 548.18468pt.
-<RewardShop.png, id=605, 226.59656pt x 389.95688pt>
+<RewardShop.png, id=663, 226.59656pt x 389.95688pt>
 File: RewardShop.png Graphic file (type png)
 <use RewardShop.png>
 Package pdftex.def Info: RewardShop.png  used on input line 188.
@@ -1789,62 +1789,151 @@ png>]
 Hoofdstuk 5.
 [43
 
-] [44]
-<VergelijkingOnderzoek.png, id=636, 447.92343pt x 446.41782pt>
+]
+<VergelijkingOnderzoek.png, id=689, 447.92343pt x 446.41782pt>
 File: VergelijkingOnderzoek.png Graphic file (type png)
 <use VergelijkingOnderzoek.png>
-Package pdftex.def Info: VergelijkingOnderzoek.png  used on input line 72.
+Package pdftex.def Info: VergelijkingOnderzoek.png  used on input line 74.
 (pdftex.def)             Requested size: 426.79135pt x 425.36832pt.
-<VerdelingGeslacht.png, id=638, 602.25pt x 372.39125pt>
+ [44] [45 <./VergelijkingOnderzoek.png>]
+<VerdelingGeslacht.png, id=700, 602.25pt x 372.39125pt>
 File: VerdelingGeslacht.png Graphic file (type png)
 <use VerdelingGeslacht.png>
-Package pdftex.def Info: VerdelingGeslacht.png  used on input line 80.
+Package pdftex.def Info: VerdelingGeslacht.png  used on input line 82.
 (pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
-
-Underfull \vbox (badness 4036) has occurred while \output is active []
-
- [45 <./VergelijkingOnderzoek.png>]
-<VerdelingLeeftijd.png, id=645, 602.25pt x 372.39125pt>
+<VerdelingLeeftijd.png, id=703, 602.25pt x 372.39125pt>
 File: VerdelingLeeftijd.png Graphic file (type png)
 <use VerdelingLeeftijd.png>
-Package pdftex.def Info: VerdelingLeeftijd.png  used on input line 88.
+Package pdftex.def Info: VerdelingLeeftijd.png  used on input line 106.
+(pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
+ [46 <./VerdelingGeslacht.png>]
+<HybrideGeslacht.png, id=713, 602.25pt x 372.39125pt>
+File: HybrideGeslacht.png Graphic file (type png)
+<use HybrideGeslacht.png>
+Package pdftex.def Info: HybrideGeslacht.png  used on input line 166.
 (pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [46 <./VerdelingGeslacht.png>] [47 <./VerdelingLeeftijd.png>]
-<HybrideGeslacht.png, id=659, 602.25pt x 372.39125pt>
-File: HybrideGeslacht.png Graphic file (type png)
-<use HybrideGeslacht.png>
-Package pdftex.def Info: HybrideGeslacht.png  used on input line 148.
-(pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
-<HybrideLeeftijd.png, id=661, 602.25pt x 372.39125pt>
+ [47 <./VerdelingLeeftijd.png>] [48 <./HybrideGeslacht.png>]
+<HybrideLeeftijd.png, id=727, 602.25pt x 372.39125pt>
 File: HybrideLeeftijd.png Graphic file (type png)
 <use HybrideLeeftijd.png>
-Package pdftex.def Info: HybrideLeeftijd.png  used on input line 156.
+Package pdftex.def Info: HybrideLeeftijd.png  used on input line 174.
 (pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
-) (conclusie.tex [48 <./HybrideGeslacht.png>] [49 <./HybrideLeeftijd.png>] [50
 
-]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49 <./HybrideLeeftijd.png>]
+<S1.png, id=740, 602.25pt x 372.39125pt>
+File: S1.png Graphic file (type png)
+<use S1.png>
+Package pdftex.def Info: S1.png  used on input line 231.
+(pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
+<S1_Hybride.png, id=742, 602.25pt x 372.39125pt>
+File: S1_Hybride.png Graphic file (type png)
+<use S1_Hybride.png>
+Package pdftex.def Info: S1_Hybride.png  used on input line 239.
+(pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
+ [50] [51 <./S1.png>]
+<S2.png, id=753, 602.25pt x 372.39125pt>
+File: S2.png Graphic file (type png)
+<use S2.png>
+Package pdftex.def Info: S2.png  used on input line 250.
+(pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
+<S2_Hybride.png, id=755, 602.25pt x 372.39125pt>
+File: S2_Hybride.png Graphic file (type png)
+<use S2_Hybride.png>
+Package pdftex.def Info: S2_Hybride.png  used on input line 258.
+(pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
+<S3.png, id=757, 602.25pt x 372.39125pt>
+File: S3.png Graphic file (type png)
+<use S3.png>
+Package pdftex.def Info: S3.png  used on input line 269.
+(pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
+<S3_Hybride.png, id=759, 602.25pt x 372.39125pt>
+File: S3_Hybride.png Graphic file (type png)
+<use S3_Hybride.png>
+Package pdftex.def Info: S3_Hybride.png  used on input line 277.
+(pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
+
+Underfull \vbox (badness 1881) has occurred while \output is active []
+
+ [52 <./S1_Hybride.png>] [53 <./S2.png> <./S2_Hybride.png>]
+<S4.png, id=773, 602.25pt x 372.39125pt>
+File: S4.png Graphic file (type png)
+<use S4.png>
+Package pdftex.def Info: S4.png  used on input line 288.
+(pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
+<S4_Hybride.png, id=775, 602.25pt x 372.39125pt>
+File: S4_Hybride.png Graphic file (type png)
+<use S4_Hybride.png>
+Package pdftex.def Info: S4_Hybride.png  used on input line 296.
+(pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
+<S5.png, id=777, 602.25pt x 372.39125pt>
+File: S5.png Graphic file (type png)
+<use S5.png>
+Package pdftex.def Info: S5.png  used on input line 306.
+(pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
+
+Underfull \vbox (badness 1881) has occurred while \output is active []
+
+ [54 <./S3.png>] [55 <./S3_Hybride.png> <./S4.png>] [56 <./S4_Hybride.png> <./S
+5.png>]
+<S5_Hybride.png, id=796, 602.25pt x 372.39125pt>
+File: S5_Hybride.png Graphic file (type png)
+<use S5_Hybride.png>
+Package pdftex.def Info: S5_Hybride.png  used on input line 314.
+(pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
+<S6.png, id=798, 602.25pt x 372.39125pt>
+File: S6.png Graphic file (type png)
+<use S6.png>
+Package pdftex.def Info: S6.png  used on input line 324.
+(pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
+<S6_Hybride.png, id=800, 602.25pt x 372.39125pt>
+File: S6_Hybride.png Graphic file (type png)
+<use S6_Hybride.png>
+Package pdftex.def Info: S6_Hybride.png  used on input line 332.
+(pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
+<S7.png, id=802, 602.25pt x 372.39125pt>
+File: S7.png Graphic file (type png)
+<use S7.png>
+Package pdftex.def Info: S7.png  used on input line 342.
+(pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
+
+[57 <./S5_Hybride.png>] [58 <./S6.png> <./S6_Hybride.png>]
+<S7_Hybride.png, id=815, 602.25pt x 372.39125pt>
+File: S7_Hybride.png Graphic file (type png)
+<use S7_Hybride.png>
+Package pdftex.def Info: S7_Hybride.png  used on input line 350.
+(pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
+) (conclusie.tex
+[59 <./S7.png>] [60 <./S7_Hybride.png>]
 Hoofdstuk 6.
-) [51] [52
+) [61
+
+] [62
 
 ]
 B\babelshorthand{"y}lage A.
-(../voorstel/voorstel-inhoud.tex [53] [54]) [55] [56
+(../voorstel/voorstel-inhoud.tex [63] [64]) [65] [66
 
-] [57] [58]
+] [67] [68]
 (bachproef-tin.aux)
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'bachproef-tin.run.xml'.
 \openout1 = `bachproef-tin.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33576 strings out of 479696
- 621192 string characters out of 2866639
- 1610967 words of memory out of 3000000
- 49475 multiletter control sequences out of 15000+200000
- 485372 words of font info for 308 fonts, out of 3000000 for 9000
+ 33718 strings out of 479696
+ 622975 string characters out of 2866639
+ 1612567 words of memory out of 3000000
+ 49566 multiletter control sequences out of 15000+200000
+ 486132 words of font info for 314 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,12n,99p,1200b,4740s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Dieter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <
@@ -1856,9 +1945,9 @@ bol/usyr.pfb><C:/Users/Dieter/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
 es/utmb8a.pfb><C:/Users/Dieter/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
 mes/utmr8a.pfb><C:/Users/Dieter/AppData/Local/Programs/MiKTeX/fonts/type1/urw/t
 imes/utmri8a.pfb>
-Output written on bachproef-tin.pdf (60 pages, 928435 bytes).
+Output written on bachproef-tin.pdf (70 pages, 1127687 bytes).
 PDF statistics:
- 1041 PDF objects out of 1200 (max. 8388607)
- 202 named destinations out of 1000 (max. 500000)
- 92196 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 1206 PDF objects out of 1440 (max. 8388607)
+ 230 named destinations out of 1000 (max. 500000)
+ 92274 words of extra memory for PDF output out of 106986 (max. 10000000)
 
