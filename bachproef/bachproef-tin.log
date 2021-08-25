@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.27)  23 AUG 2021 01:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.27)  26 AUG 2021 00:55
 entering extended mode
 **./bachproef-tin.tex
 (bachproef-tin.tex
@@ -1825,114 +1825,115 @@ Package pdftex.def Info: HybrideLeeftijd.png  used on input line 174.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [49 <./HybrideLeeftijd.png>]
-<S1.png, id=740, 602.25pt x 372.39125pt>
+<S1.png, id=742, 602.25pt x 372.39125pt>
 File: S1.png Graphic file (type png)
 <use S1.png>
 Package pdftex.def Info: S1.png  used on input line 231.
 (pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
-<S1_Hybride.png, id=742, 602.25pt x 372.39125pt>
+ [50]
+<S1_Hybride.png, id=748, 602.25pt x 372.39125pt>
 File: S1_Hybride.png Graphic file (type png)
 <use S1_Hybride.png>
 Package pdftex.def Info: S1_Hybride.png  used on input line 239.
 (pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
- [50] [51 <./S1.png>]
-<S2.png, id=753, 602.25pt x 372.39125pt>
+<S2.png, id=751, 602.25pt x 372.39125pt>
 File: S2.png Graphic file (type png)
 <use S2.png>
-Package pdftex.def Info: S2.png  used on input line 250.
+Package pdftex.def Info: S2.png  used on input line 251.
 (pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
-<S2_Hybride.png, id=755, 602.25pt x 372.39125pt>
+<S2_Hybride.png, id=753, 602.25pt x 372.39125pt>
 File: S2_Hybride.png Graphic file (type png)
 <use S2_Hybride.png>
-Package pdftex.def Info: S2_Hybride.png  used on input line 258.
+Package pdftex.def Info: S2_Hybride.png  used on input line 259.
 (pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
-<S3.png, id=757, 602.25pt x 372.39125pt>
+ [51] [52 <./S1.png> <./S1_Hybride.png>] [53 <./S2.png> <./S2_Hybride.png>]
+<S3.png, id=773, 602.25pt x 372.39125pt>
 File: S3.png Graphic file (type png)
 <use S3.png>
-Package pdftex.def Info: S3.png  used on input line 269.
+Package pdftex.def Info: S3.png  used on input line 271.
 (pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
-<S3_Hybride.png, id=759, 602.25pt x 372.39125pt>
+<S3_Hybride.png, id=775, 602.25pt x 372.39125pt>
 File: S3_Hybride.png Graphic file (type png)
 <use S3_Hybride.png>
-Package pdftex.def Info: S3_Hybride.png  used on input line 277.
+Package pdftex.def Info: S3_Hybride.png  used on input line 279.
 (pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
-
-Underfull \vbox (badness 1881) has occurred while \output is active []
-
- [52 <./S1_Hybride.png>] [53 <./S2.png> <./S2_Hybride.png>]
-<S4.png, id=773, 602.25pt x 372.39125pt>
+<S4.png, id=778, 602.25pt x 372.39125pt>
 File: S4.png Graphic file (type png)
 <use S4.png>
-Package pdftex.def Info: S4.png  used on input line 288.
+Package pdftex.def Info: S4.png  used on input line 291.
 (pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
-<S4_Hybride.png, id=775, 602.25pt x 372.39125pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [54 <./S3.png>] [55 <./S3_Hybride.png> <./S4.png>]
+<S4_Hybride.png, id=791, 602.25pt x 372.39125pt>
 File: S4_Hybride.png Graphic file (type png)
 <use S4_Hybride.png>
-Package pdftex.def Info: S4_Hybride.png  used on input line 296.
+Package pdftex.def Info: S4_Hybride.png  used on input line 299.
 (pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
-<S5.png, id=777, 602.25pt x 372.39125pt>
+<S5.png, id=794, 602.25pt x 372.39125pt>
 File: S5.png Graphic file (type png)
 <use S5.png>
-Package pdftex.def Info: S5.png  used on input line 306.
+Package pdftex.def Info: S5.png  used on input line 311.
 (pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
-
-Underfull \vbox (badness 1881) has occurred while \output is active []
-
- [54 <./S3.png>] [55 <./S3_Hybride.png> <./S4.png>] [56 <./S4_Hybride.png> <./S
-5.png>]
 <S5_Hybride.png, id=796, 602.25pt x 372.39125pt>
 File: S5_Hybride.png Graphic file (type png)
 <use S5_Hybride.png>
-Package pdftex.def Info: S5_Hybride.png  used on input line 314.
+Package pdftex.def Info: S5_Hybride.png  used on input line 319.
 (pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
-<S6.png, id=798, 602.25pt x 372.39125pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56 <./S4_Hybride.png>] [57 <./S5.png> <./S5_Hybride.png>]
+<S6.png, id=810, 602.25pt x 372.39125pt>
 File: S6.png Graphic file (type png)
 <use S6.png>
-Package pdftex.def Info: S6.png  used on input line 324.
+Package pdftex.def Info: S6.png  used on input line 331.
 (pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
-<S6_Hybride.png, id=800, 602.25pt x 372.39125pt>
+<S6_Hybride.png, id=812, 602.25pt x 372.39125pt>
 File: S6_Hybride.png Graphic file (type png)
 <use S6_Hybride.png>
-Package pdftex.def Info: S6_Hybride.png  used on input line 332.
+Package pdftex.def Info: S6_Hybride.png  used on input line 339.
 (pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
-<S7.png, id=802, 602.25pt x 372.39125pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [58 <./S6.png>]
+<S7.png, id=820, 602.25pt x 372.39125pt>
 File: S7.png Graphic file (type png)
 <use S7.png>
-Package pdftex.def Info: S7.png  used on input line 342.
+Package pdftex.def Info: S7.png  used on input line 351.
 (pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
-
-[57 <./S5_Hybride.png>] [58 <./S6.png> <./S6_Hybride.png>]
-<S7_Hybride.png, id=815, 602.25pt x 372.39125pt>
+<S7_Hybride.png, id=822, 602.25pt x 372.39125pt>
 File: S7_Hybride.png Graphic file (type png)
 <use S7_Hybride.png>
-Package pdftex.def Info: S7_Hybride.png  used on input line 350.
+Package pdftex.def Info: S7_Hybride.png  used on input line 359.
 (pdftex.def)             Requested size: 426.79135pt x 263.91096pt.
-) (conclusie.tex
-[59 <./S7.png>] [60 <./S7_Hybride.png>]
-Hoofdstuk 6.
-) [61
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [59 <./S6_Hybride.png>] [60 <./S7.png> <./S7_Hybride.png>]) (conclusie.tex [61
 ] [62
 
 ]
+Hoofdstuk 6.
+) [63] [64
+
+]
 B\babelshorthand{"y}lage A.
-(../voorstel/voorstel-inhoud.tex [63] [64]) [65] [66
+(../voorstel/voorstel-inhoud.tex [65] [66]) [67] [68
 
-] [67] [68]
+] [69] [70]
 (bachproef-tin.aux)
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'bachproef-tin.run.xml'.
 \openout1 = `bachproef-tin.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33718 strings out of 479696
- 622975 string characters out of 2866639
- 1612567 words of memory out of 3000000
- 49566 multiletter control sequences out of 15000+200000
+ 33722 strings out of 479696
+ 623013 string characters out of 2866639
+ 1613568 words of memory out of 3000000
+ 49568 multiletter control sequences out of 15000+200000
  486132 words of font info for 314 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,12n,99p,1200b,4740s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1945,9 +1946,9 @@ bol/usyr.pfb><C:/Users/Dieter/AppData/Local/Programs/MiKTeX/fonts/type1/urw/tim
 es/utmb8a.pfb><C:/Users/Dieter/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ti
 mes/utmr8a.pfb><C:/Users/Dieter/AppData/Local/Programs/MiKTeX/fonts/type1/urw/t
 imes/utmri8a.pfb>
-Output written on bachproef-tin.pdf (70 pages, 1127687 bytes).
+Output written on bachproef-tin.pdf (72 pages, 1133734 bytes).
 PDF statistics:
- 1206 PDF objects out of 1440 (max. 8388607)
- 230 named destinations out of 1000 (max. 500000)
+ 1223 PDF objects out of 1440 (max. 8388607)
+ 232 named destinations out of 1000 (max. 500000)
  92274 words of extra memory for PDF output out of 106986 (max. 10000000)
 
