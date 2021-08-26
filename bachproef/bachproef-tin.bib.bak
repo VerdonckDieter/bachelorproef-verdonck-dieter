@@ -2,33 +2,38 @@
 
 @InProceedings{Deterding2011,
   author = {Deterding, Sebastian and Khaled, Rilla and Nacke, Lennart E. and Dixon, Dan},
-  date   = {2011-09},
-  title  = {From Game Design Elements to Gamefulness: Defining “Gamification”},
+  date   = {2011-05},
+  title  = {Gamification: Toward a Definition.},
+  url    = {http://gamification-research.org/wp-content/uploads/2011/04/02-Deterding-Khaled-Nacke-Dixon.pdf},
 }
 
 @MastersThesis{Christians2018,
   author      = {Gerald Christians},
   date        = {2018-05},
   institution = {University of South Carolina},
-  title       = {The Origins and Future of Gamification},
+  title       = {The Origins and Future of Gamification.},
+  url         = {https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1255&context=senior_theses},
 }
 
 @Misc{Huotari2012,
-  author = {Huotari, Kai and Hamar, Juho},
+  author = {Huotari, Kai and Hamari, Juho},
   date   = {2012},
-  title  = {Defining Gamification - A Service Marketing Perspective},
+  title  = {Defining Gamification - A Service Marketing Perspective.},
+  doi    = {10.1145/2393132.2393137},
 }
 
 @Misc{Rajani2019,
   author = {Rajani, Nikita B. and Weth, Dominik and Mastellos, Nikolaos and Filippidis, Filippos T.},
   date   = {2019-05-16},
   title  = {Use of gamification strategies and tactics in mobile applications for smoking cessation: a review of the UK mobile app market},
+  doi    = {10.1136/bmjopen-2018-027883},
 }
 
 @Misc{Lee2017,
   author = {Lee, Changjun and Lee, Kyoungsun and Lee, Daeho},
   date   = {2017-05-08},
-  title  = {Mobile Healthcare Applications and Gamification for Sustained Health Maintenance},
+  title  = {Mobile Healthcare Applications and Gamification for Sustained Health Maintenance.},
+  doi    = {10.3390/su9050772},
 }
 
 @Misc{Hallifax2019,
@@ -37,9 +42,11 @@
   title  = {Adaptive gamification in education: A literature review of current trends and developments},
 }
 
-@Misc{Dahlstrom,
+@Misc{Dahlstrom2018,
   author = {Dahlstrøm, Camilla},
+  date   = {2018-06},
   title  = {Impacts of gamification on intrinsic motivation},
+  doi    = {10.1007%2F978-3-319-91716-0_35},
 }
 
 @Misc{Negrusa2015,
@@ -58,7 +65,8 @@
 @Misc{Lindholm2016,
   author = {Lindholm, Oscar and Monsen, Christofer},
   date   = {2016},
-  title  = {Gamification – The process of designing our activities into games},
+  title  = {Gamification – The process of designing our activities into games.},
+  url    = {https://www.diva-portal.org/smash/get/diva2:939420/FULLTEXT01.pdf},
 }
 
 @Misc{Schobel2016,
@@ -71,12 +79,14 @@
   author = {Sailer, Michael and Hense, Jan Ulrich and Mayr, Sarah Katharina and Mandl, Heinz},
   date   = {2016-12-14},
   title  = {How Gamification motivates: An experimental study of the effects of specific game design elements on psychological need satisfaction},
+  doi    = {10.1016/j.chb.2016.12.033},
 }
 
 @Misc{Yang2017,
-  author = {Yang, Y and Asaad, Y and Dwivedi, Y},
+  author = {Yang, Yang and Asaad, Yousra and Dwivedi, Yogesh},
   date   = {2017-04-01},
   title  = {Examining the impact of gamification on intention of engagement and brand attitude in the marketing context},
+  doi    = {10.1016/j.chb.2017.03.066},
 }
 
 @Misc{Kim2015,
@@ -117,13 +127,15 @@
 @Misc{Carreno2018,
   author = {Carreño, Alberto Mora},
   date   = {2018-06},
-  title  = {A framework for agile design ofpersonalized gamification services},
+  title  = {A framework for Agile design of personalized gamification services.},
+  url    = {http://openaccess.uoc.edu/webapps/o2/bitstream/10609/86285/1/Thesis_June.pdf},
 }
 
 @Misc{Deterding20112,
   author = {Deterding, Sebastion and Dixon, Dan and Khaled, Rilla and Nacke, Lennart},
   date   = {2011-09},
   title  = {From Game Design Elements to Gamefulness: Defining “Gamification”},
+  doi    = {10.1145/2181037.2181040},
 }
 
 @Online{WePC2021,
@@ -156,12 +168,14 @@
   author = {Groh, Fabian},
   date   = {2012-01},
   title  = {Gamification: State of the Art Definition and Utilization},
+  url    = {http://hubscher.org/roland/courses/hf765/readings/Groh_2012.pdf},
 }
 
 @Misc{Morford2014,
   author = {Morford, Zachary H. and Witts, Benjamin N. and Killingsworth, Kenneth J. and Alavosius, Mark P.},
   date   = {2014-04-29},
   title  = {Gamification: The Intersection between Behavior Analysisand Game Design Technologies},
+  doi    = {10.1007/s40614-014-0006-1},
 }
 
 @InProceedings{Tondello2016,
@@ -220,7 +234,7 @@
   title        = {Psychological Perspectives on Motivation through Gamification},
   number       = {19},
   pages        = {18-27},
-  url          = {https://www.researchgate.net/publication/278672057_Psychological_Perspectives_on_Motivation_through_Gamification},
+  url          = {https://core.ac.uk/download/pdf/26951671.pdf},
 }
 
 @Book{Kapp2012,

@@ -205,9 +205,15 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{6}
-      \field{title}{A framework for agile design ofpersonalized gamification services}
+      \field{title}{A framework for Agile design of personalized gamification services.}
       \field{year}{2018}
       \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://openaccess.uoc.edu/webapps/o2/bitstream/10609/86285/1/Thesis_June.pdf
+      \endverb
+      \verb{url}
+      \verb http://openaccess.uoc.edu/webapps/o2/bitstream/10609/86285/1/Thesis_June.pdf
+      \endverb
     \endentry
     \entry{Christians2018}{thesis}{}
       \name{author}{1}{}{%
@@ -235,10 +241,16 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{5}
-      \field{title}{The Origins and Future of Gamification}
+      \field{title}{The Origins and Future of Gamification.}
       \field{type}{mathesis}
       \field{year}{2018}
       \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1255&context=senior_theses
+      \endverb
+      \verb{url}
+      \verb https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1255&context=senior_theses
+      \endverb
     \endentry
     \entry{Costa2019}{article}{}
       \name{author}{1}{}{%
@@ -389,10 +401,16 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{9}
-      \field{title}{From Game Design Elements to Gamefulness: Defining “Gamification”}
+      \field{month}{5}
+      \field{title}{Gamification: Toward a Definition.}
       \field{year}{2011}
       \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://gamification-research.org/wp-content/uploads/2011/04/02-Deterding-Khaled-Nacke-Dixon.pdf
+      \endverb
+      \verb{url}
+      \verb http://gamification-research.org/wp-content/uploads/2011/04/02-Deterding-Khaled-Nacke-Dixon.pdf
+      \endverb
     \endentry
     \entry{Deterding20112}{misc}{}
       \name{author}{4}{ul=2}{%
@@ -437,6 +455,9 @@
       \field{title}{From Game Design Elements to Gamefulness: Defining “Gamification”}
       \field{year}{2011}
       \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1145/2181037.2181040
+      \endverb
     \endentry
     \entry{Fogg2009}{misc}{}
       \name{author}{1}{}{%
@@ -533,6 +554,12 @@
       \field{title}{Gamification: State of the Art Definition and Utilization}
       \field{year}{2012}
       \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://hubscher.org/roland/courses/hf765/readings/Groh_2012.pdf
+      \endverb
+      \verb{url}
+      \verb http://hubscher.org/roland/courses/hf765/readings/Groh_2012.pdf
+      \endverb
     \endentry
     \entry{Hamari2019}{misc}{}
       \name{author}{1}{}{%
@@ -570,19 +597,19 @@
            given={Kai},
            giveni={K\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=93ce6633bf9859ef389431696a8f9585}{%
-           family={Hamar},
+        {{un=0,uniquepart=base,hash=57c059873972ac3bb360bc05ba0a18f1}{%
+           family={Hamari},
            familyi={H\bibinitperiod},
            given={Juho},
            giveni={J\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{c8584fdf2337adeaecb8844cb7c46690}
-      \strng{fullhash}{c8584fdf2337adeaecb8844cb7c46690}
-      \strng{bibnamehash}{c8584fdf2337adeaecb8844cb7c46690}
-      \strng{authorbibnamehash}{c8584fdf2337adeaecb8844cb7c46690}
-      \strng{authornamehash}{c8584fdf2337adeaecb8844cb7c46690}
-      \strng{authorfullhash}{c8584fdf2337adeaecb8844cb7c46690}
+      \strng{namehash}{bcc5c4d4d7f254d719aa90473e93465b}
+      \strng{fullhash}{bcc5c4d4d7f254d719aa90473e93465b}
+      \strng{bibnamehash}{bcc5c4d4d7f254d719aa90473e93465b}
+      \strng{authorbibnamehash}{bcc5c4d4d7f254d719aa90473e93465b}
+      \strng{authornamehash}{bcc5c4d4d7f254d719aa90473e93465b}
+      \strng{authorfullhash}{bcc5c4d4d7f254d719aa90473e93465b}
       \field{sortinit}{H}
       \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
       \field{extradatescope}{labelyear}
@@ -590,9 +617,12 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Defining Gamification - A Service Marketing Perspective}
+      \field{title}{Defining Gamification - A Service Marketing Perspective.}
       \field{year}{2012}
       \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1145/2393132.2393137
+      \endverb
     \endentry
     \entry{Kapp2012}{book}{}
       \name{author}{1}{}{%
@@ -658,9 +688,12 @@
       \field{labeltitlesource}{title}
       \field{day}{8}
       \field{month}{5}
-      \field{title}{Mobile Healthcare Applications and Gamification for Sustained Health Maintenance}
+      \field{title}{Mobile Healthcare Applications and Gamification for Sustained Health Maintenance.}
       \field{year}{2017}
       \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.3390/su9050772
+      \endverb
     \endentry
     \entry{Lindholm2016}{misc}{}
       \name{author}{2}{}{%
@@ -690,9 +723,15 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Gamification – The process of designing our activities into games}
+      \field{title}{Gamification – The process of designing our activities into games.}
       \field{year}{2016}
       \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.diva-portal.org/smash/get/diva2:939420/FULLTEXT01.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.diva-portal.org/smash/get/diva2:939420/FULLTEXT01.pdf
+      \endverb
     \endentry
     \entry{Marczewski2015}{book}{}
       \name{author}{1}{}{%
@@ -768,6 +807,9 @@
       \field{title}{Gamification: The Intersection between Behavior Analysisand Game Design Technologies}
       \field{year}{2014}
       \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1007/s40614-014-0006-1
+      \endverb
     \endentry
     \entry{Pelling2011}{misc}{}
       \name{author}{1}{}{%
@@ -848,6 +890,9 @@
       \field{title}{Use of gamification strategies and tactics in mobile applications for smoking cessation: a review of the UK mobile app market}
       \field{year}{2019}
       \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1136/bmjopen-2018-027883
+      \endverb
     \endentry
     \entry{Sailer2013}{article}{}
       \name{author}{4}{}{%
@@ -899,10 +944,10 @@
       \field{pages}{18\bibrangedash 27}
       \range{pages}{10}
       \verb{urlraw}
-      \verb https://www.researchgate.net/publication/278672057_Psychological_Perspectives_on_Motivation_through_Gamification
+      \verb https://core.ac.uk/download/pdf/26951671.pdf
       \endverb
       \verb{url}
-      \verb https://www.researchgate.net/publication/278672057_Psychological_Perspectives_on_Motivation_through_Gamification
+      \verb https://core.ac.uk/download/pdf/26951671.pdf
       \endverb
     \endentry
     \entry{Sailer2016}{misc}{}
@@ -951,6 +996,9 @@
       \field{title}{How Gamification motivates: An experimental study of the effects of specific game design elements on psychological need satisfaction}
       \field{year}{2016}
       \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1016/j.chb.2016.12.033
+      \endverb
     \endentry
     \entry{Leaderboard2021}{misc}{}
       \name{author}{1}{}{%
@@ -1116,31 +1164,31 @@
     \endentry
     \entry{Yang2017}{misc}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=865de0ad624b442a018417bf6b85083e}{%
+        {{un=0,uniquepart=base,hash=d9da4a23ca804cbf6aff5760349ec643}{%
            family={Yang},
            familyi={Y\bibinitperiod},
-           given={Y},
+           given={Yang},
            giveni={Y\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=c120b9b80dce5df43ce5dd1420a95124}{%
+        {{un=0,uniquepart=base,hash=42b5cb6fea2abe12ebb72d5bc8a3ee36}{%
            family={Asaad},
            familyi={A\bibinitperiod},
-           given={Y},
+           given={Yousra},
            giveni={Y\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b9f825d679a08bc276e14d2390fcb2a5}{%
+        {{un=0,uniquepart=base,hash=f7a5d8c54cf9f60e2b09eed68c787ec6}{%
            family={Dwivedi},
            familyi={D\bibinitperiod},
-           given={Y},
+           given={Yogesh},
            giveni={Y\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{958aa08ccff585684f3852063103799b}
-      \strng{fullhash}{a51aa70a328fc0a25104ac991bc8c0ad}
-      \strng{bibnamehash}{a51aa70a328fc0a25104ac991bc8c0ad}
-      \strng{authorbibnamehash}{a51aa70a328fc0a25104ac991bc8c0ad}
-      \strng{authornamehash}{958aa08ccff585684f3852063103799b}
-      \strng{authorfullhash}{a51aa70a328fc0a25104ac991bc8c0ad}
+      \strng{namehash}{9d438df715a00f50c6337ecca5c77027}
+      \strng{fullhash}{76d45229c9c0098d7cacfc46b77da97d}
+      \strng{bibnamehash}{76d45229c9c0098d7cacfc46b77da97d}
+      \strng{authorbibnamehash}{76d45229c9c0098d7cacfc46b77da97d}
+      \strng{authornamehash}{9d438df715a00f50c6337ecca5c77027}
+      \strng{authorfullhash}{76d45229c9c0098d7cacfc46b77da97d}
       \field{sortinit}{Y}
       \field{sortinithash}{6ae2ff5458ff901249c2745238c951b7}
       \field{extradatescope}{labelyear}
@@ -1150,9 +1198,12 @@
       \field{labeltitlesource}{title}
       \field{day}{1}
       \field{month}{4}
-      \field{title}{Examining the impact of gamification on intention of engagement and brand attitude in the marketing context}
+      \field{title}{Examining the impact of gamification on intention of engagement and brand attitude in the marketing context.}
       \field{year}{2017}
       \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1016/j.chb.2017.03.066
+      \endverb
     \endentry
     \entry{Yuan2016}{misc}{}
       \name{author}{3}{}{%

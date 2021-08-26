@@ -7,7 +7,7 @@
 
 \section{Inleiding}
 
-In dit hoofdstuk zullen een aantal van de verschillende ontwerpelementen die zijn toegelicht in de literatuurstudie worden toegevoegd aan het bestaande platform Innerdreams, met als doel gamification te implementeren. De keuze werd gemaakt om gebruikers toe te laten punten en badges te verzamelen en om een scorebord en beloningswinkel toe te voegen. Deze elementen werden gekozen na een brainstormsessie en een kort onderzoek over de verschillende manieren waarop gamification kan worden geïmplementeerd.
+In dit hoofdstuk zullen een aantal van de verschillende ontwerpelementen, die zijn toegelicht in de literatuurstudie, worden toegevoegd aan het bestaande platform Innerdreams, met als doel gamification te implementeren. De keuze werd gemaakt om gebruikers toe te laten punten en badges te verzamelen en om een scorebord en beloningswinkel toe te voegen. Deze elementen werden gekozen na een brainstormsessie en een kort onderzoek over de verschillende manieren waarop gamification kan worden geïmplementeerd.
 
 \section{Requirements}
 
@@ -15,7 +15,7 @@ Zoals in de inleiding werd vermeld werd gekozen om een puntensysteem te implemen
 
 \section{Uitwerking}
 
-\subsection{Punten}
+\subsection{Puntensysteem}
 
 Om het puntensysteem uit te werken werd gekozen om gebruikers punten te laten verzamelen bij het invullen en delen van enquêtes. Hiervoor is het nodig dat de mogelijkheid bestaat om aan bepaalde enquêtes punten te gaan toewijzen.
 
@@ -38,21 +38,13 @@ Een eerste noodzakelijke aanpassing was het toevoegen van een tabel aan de SQL d
 
 Het was ook nodig om het totale aantal verzamelde punten van iedere individuele gebruiker bij te houden. In Figuur \ref{fig:dbdiagram} is te zien dat aan de gebruikerstabel een extra kolom werd toegevoegd om deze punten vast te hangen aan de gebruikers. Voor zowel gebruikers die een nieuw profiel aanmaken als voor de reeds bestaande gebruikers werd de standaard waarde van hun punten op nul gezet.
 
-Om de punten te kunnen toewijzen aan de verschillende enquêtes werd een nieuwe module aangemaakt. In Figuur \ref{fig:managepoints} is te zien dat in deze module de bestaande enquêtes opgehaald worden en dat de beheerder hierin de respectievelijke punten kan gaan toewijzen aan de enquêtes.
-
-\begin{figure}
-    \includegraphics[width=\linewidth]{ManagePoints.png}
-    \caption{De beheertool om punten toe te wijzen.}
-    \label{fig:managepoints}
-\end{figure}
-
 Eenmaal een gebruiker het einde van een enquête bereikt is het nodig om een overzicht van het totale aantal verzamelde punten tijdens het afleggen van de enquête weer te geven. Het is daarom dat werd gekozen om ook een overzichtspagina toe te voegen. Deze pagina verschijnt eenmaal een gebruiker een enquête volledig heeft ingevuld en de inhoud hiervan hangt af van of een enquête punten heeft toegewezen gekregen of niet. Als de enquête punten heeft toegewezen gekregen zal op deze pagina een overzicht worden getoond van de verzamelde punten tijdens het afleggen van de enquête. Op deze pagina is het ook mogelijk om de enquête te gaan delen met andere gebruikers, waardoor nog meer punten kunnen worden verdiend. Als de enquête geen punten heeft toegewezen gekregen zal op dit overzicht een korte bedanking worden getoond.
 
 Soms is het ook mogelijk dat een gebruiker niet moet aangemeld zijn om een enquête in te vullen. Om te zorgen dat de punten die de gebruiker heeft verzameld niet verloren gaan worden deze bijgehouden in zogenaamde sessievariabelen. Een sessievariabele is een object dat voor elke gebruiker apart wordt bijgehouden op de server zolang een sessie tussen de gebruiker en de server actief is. De totale waarde van de verzamelde punten wordt bijgehouden in een sessievariabele tijdens het afleggen van een enquête. Eenmaal de gebruiker op de overzichtspagina terechtkomt en niet aangemeld is wordt de optie gegeven om zich alsnog aan te melden. Als de gebruiker na de doorverwijzing naar de aanmeldpagina terug wordt doorverwezen naar de overzichtspagina zal hij/zij een overzicht zien van de verzamelde punten die bijgehouden zijn in de sessievariabele. Hier krijgt de gebruiker alsnog de kans om de punten te verzilveren.
 
 Als een gebruiker kiest om een enquête te delen zal de URL van de gedeelde enquête een aantal extra parameters bevatten. Een van deze parameters bevat een uniek cijfer dat de gebruiker die de enquête heeft gedeeld zal identificeren. Bij de start van het afleggen van een enquête wordt een controle uitgevoerd om de URL. Als deze URL de eerder vermelde unieke identificatie bevat zullen aan deze gebruiker een aantal vooraf bepaalde punten worden toegewezen. Eenmaal de enquête wordt voltooid zullen aan deze gebruiker opnieuw een aantal punten worden toegewezen.
 
-\subsection{Badges}
+\subsection{Badgesysteem}
 
 Voor het behalen van badges werd gekozen om deze te gaan koppelen aan het totale aantal deelnames van een gebruiker aan enquêtes. Een deelname wordt toegevoegd aan de databank eenmaal een gebruiker tenminste één pagina heeft ingevuld van een enquête.
 
@@ -91,7 +83,7 @@ Wanneer de gebruiker de enquête volledig heeft ingevuld en op de overzichtspagi
     END
 \end{lstlisting}
 
-In Listing \ref{lst:tq} is te zien hoe zo een trigger query er uit ziet en functioneert. Voor een specifieke gebruiker wordt de som van het totale aantal deelnames aan alle enquêtes genomen. Als deze som voldoet aan een bepaalde voorwaarde zal een bit geretourneerd worden. Als deze bit 1 is wil dit zeggen dat de gebruiker aan de voorwaarde voldoet en dat de badge behaald is. Als deze bit op 0 staat is niet aan de voorwaarde voldaan en zal de gebruiker de badge niet krijgen. In dit voorbeeld is te zien dat voor de huidige gebruiker wordt gecontroleerd of hij/zij minstens één deelname heeft aan een enquête. Als aan deze voorwaarde is voldaan zal deze gebruiker een badge verdienen met bijvoorbeeld de tekst ``Vul je eerste enquête in'' (Figuur \ref{fig:badgeunlocked}).
+In Listing \ref{lst:tq} is te zien hoe zo een trigger query eruitziet en functioneert. Voor een specifieke gebruiker wordt de som van het totale aantal deelnames aan alle enquêtes genomen. Als deze som voldoet aan een bepaalde voorwaarde zal een bit geretourneerd worden. Als deze bit 1 is wil dit zeggen dat de gebruiker aan de voorwaarde voldoet en dat de badge behaald is. Als deze bit op 0 staat is niet aan de voorwaarde voldaan en zal de gebruiker de badge niet krijgen. In dit voorbeeld is te zien dat voor de huidige gebruiker wordt gecontroleerd of hij/zij minstens één deelname heeft aan een enquête. Als aan deze voorwaarde is voldaan zal deze gebruiker een badge verdienen met bijvoorbeeld de tekst ``Vul je eerste enquête in'' (Figuur \ref{fig:badgeunlocked}).
 
 \begin{figure}
     \includegraphics[width=\linewidth]{BadgeUnlocked.png}
@@ -117,7 +109,7 @@ In Listing \ref{lst:tq} is te zien hoe zo een trigger query er uit ziet en funct
 
 Het scorebord werd ontworpen om respectievelijk de rangschikking, de gebruikersnaam en het totale aantal verzamelde punten van alle gebruikers weer te geven. Om het scorebord te implementeren was het niet nodig om aanpassingen te doen aan de databank. Alle noodzakelijke aanpassingen werden reeds uitgevoerd tijdens het implementeren van de ontwerpelementen in de vorige stappen.
 
-In Listing \ref{lst:gul} is te zien dat gebruik gemaakt werd van een stored procedure, om alle benodigde data van de gebruikers op te halen. In deze stored procedure werd gebruik gemaakt van de \textit{SQL ROW\_NUMBER()} functie. Deze functie zal één of meerdere specifieke kolommen uit een tabel ophalen. Deze kolom(men) kunnen zowel oplopend als aflopend gesorteerd worden. Na het ophalen zal de functie aan elke rij uit de resultatenlijst een unieke, oplopende waarde toewijzen op basis van de geordende kolom. In dit geval haalt de functie een oplopende lijst van de punten van gebruikers op en een lijst van de gebruikersnamen. De functie wijst daarna een waarde toe aan elke rij op basis van de puntenlijst. Deze waarde stelt de rangschikking op het scorebord voor. In het geval dat twee gelijke waarden worden tegengekomen in de lijst van punten wijst de functie de waarde toe op basis van de alfabetische volgorde van de gebruikersnamen. Buiten het ophalen van de rangschikking zal deze stored procedure ook de gebruikersnamen en het totale aantal behaalde punten ophalen van alle gebruikers.
+In Listing \ref{lst:gul} is te zien dat gebruik gemaakt werd van een stored procedure, om alle benodigde data van de gebruikers op te halen. In deze stored procedure werd gebruik gemaakt van de \textit{SQL ROW\_NUMBER()} functie. Deze functie zal één of meerdere specifieke kolommen uit een tabel ophalen. Deze kolommen kunnen zowel oplopend als aflopend gesorteerd worden. Na het ophalen zal de functie aan elke rij uit de resultatenlijst een unieke, oplopende waarde toewijzen op basis van de geordende kolom. In dit geval haalt de functie een oplopende lijst van de punten van de gebruikers op en een lijst van de gebruikersnamen. De functie wijst daarna een waarde toe aan elke rij op basis van de puntenlijst. Deze waarde stelt de rangschikking op het scorebord voor. In het geval dat twee gelijke waarden worden tegengekomen in de lijst van punten wijst de functie de waarde toe op basis van de alfabetische volgorde van de gebruikersnamen. Buiten het ophalen van de rangschikking zal deze stored procedure ook de gebruikersnamen en het totale aantal behaalde punten ophalen van alle gebruikers.
 
 \begin{lstlisting}[caption={De GetUsersLeaderboard stored procedure.},
     label={lst:gul},
@@ -190,3 +182,7 @@ In Figuur \ref{fig:rewardshop} is te zien hoe de beloningswinkel op Innerdreams 
     \caption{De beloningswinkel op Innerdreams.}
     \label{fig:rewardshop}
 \end{figure}
+
+\section{Bespreking}
+
+Uit het toevoegen van de verschillende ontwerpelementen aan het prototype blijkt dat bijna geen aanpassingen nodig waren aan het bestaande platform. De enige aanpassing die noodzakelijk bleek te zijn was om aan de bestaande gebruikerstabel een extra kolom toe te voegen waarin de verzamelde punten worden bijgehouden. Alle overige benodigde elementen konden ingewerkt worden binnen het bestaande platform zonder de werking van de bestaande functionaliteiten te verstoren.
